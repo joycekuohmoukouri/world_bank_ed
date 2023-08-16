@@ -1,6 +1,5 @@
 ## World Bank Education systems [[view code]](KuohMoukouri_Joyce_2_notebook_122022.html)
 ## Exploratory Data Analysis and scoring based on WB indicators.
-![image title](https://img.shields.io/badge/python-v3.6-green.svg) 
 
 **The code is available [here](KuohMoukouri_Joyce_2_notebook_122022.html) or by clicking on the [view code] link above.**
 
