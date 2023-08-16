@@ -1,4 +1,5 @@
-## Painter Identification with Convolutional Neural Nets [[view code]](http://nbviewer.jupyter.org/github/marcotav/deep-learning/blob/master/painters-identification/notebooks/capstone-models-final-model-building.ipynb) 
+## World Bank Education systems [[view code]](KuohMoukouri_Joyce_2_notebook_122022.ipynb)
+## Exploratory Data Analysis and scoring based on WB indicators.
 ![image title](https://img.shields.io/badge/python-v3.6-green.svg) ![image title](https://img.shields.io/badge/keras-v2.1.5-red.svg) ![Image title](https://img.shields.io/badge/TensorFlow-v1.7.0-orange.svg)
 
 **The code is available [here](http://nbviewer.jupyter.org/github/marcotav/deep-learning/blob/master/painters-identification/notebooks/capstone-models-final-model-building.ipynb) or by clicking on the [view code] link above.**
