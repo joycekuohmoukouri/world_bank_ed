@@ -12,13 +12,11 @@
 </p>
 
 <a id = 'goal'></a>
-## Goal
+## Goals
+- Explore World Bank education system data for an expanding EdTech company offering ditance-learning courses.
+- Implement a score of attractiveness per country, using indicators among the 4000+ world bank indicators
+- List the 5 most attractive countries
 
-
-<a id = 'over'></a>
-## Overview and Data
-
-<a id = 'orgdata'></a>
-## Preprocessing the data
+[Download PDF Presentation](KuohMoukouri_Joyce_2_presentation_122022.pdf)
 
 
