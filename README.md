@@ -3,12 +3,6 @@
 
 <br>
 
-<p align="center">
-  <a href="#goal"> Goal </a> •
-  <a href="#chal"> Challenges and Applications </a> •
-  <a href="#over"> Overview and Data </a> •
-</p>
-
 <a id = 'goal'></a>
 ## Goals
 - Explore World Bank education system data for an expanding EdTech company offering ditance-learning courses.
